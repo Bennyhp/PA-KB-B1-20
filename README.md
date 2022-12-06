@@ -9,6 +9,6 @@
 
 ## Cara Menjalankan program ini
 #### 1. Ambil data memakai datacollecting.ipynb
-#### 2. Lalu melakukan preporcessing dengan file prepocessing1
-#### 3. Lanjutkan melakukan preporcessing dengan file prepocessing2
+#### 2. Lalu melakukan preprocessing dengan file prepocessing_1.ipynb
+#### 3. Lanjutkan melakukan preprocessing dengan file prepocessing_2.ipynb
 #### 4. Lanjutkan melakukan modeling dengan file model
