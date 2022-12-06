@@ -8,3 +8,7 @@
 <p> Dataset untuk proyek akhir ini kami melakukan scraping pada website playstore, untuk aplikasi flip, terdiri dar 1.200 data dengan kolom content untuk review, dan score untuk melihat skor</p>
 
 ## Cara Menjalankan program ini
+#### 1. Ambil data memakai datacollecting.ipynb
+#### 2. Lalu melakukan preporcessing dengan file prepocessing1
+#### 3. Lanjutkan melakukan preporcessing dengan file prepocessing2
+#### 4. Lanjutkan melakukan modeling dengan file model
